@@ -17,6 +17,10 @@ export const AboutMeRows = [
         key: "Lives In",
         value: "Armenia"
     },
+    {
+        key: "Job",
+        value: "None"
+    },
 ]
 export const socials: Array<{title: string; url: string; imgURL: string; bg: string}> = [
     {
