@@ -8,7 +8,7 @@ const DescriptionCard = () => {
       {/* PROFILE AREA */}
       <div className="w-full h-[300px] rounded-2xl bg-card px-4 py-12 border-t-[6px] border-t-indigo-500 flex items-center justify-between max-md:flex-col max-md:h-fit" role="row" id="start">
         {/* BADGE START */}
-        <div className="w-[100px] h-[inherit] mx-2 flex items-center justify-center relative max-md:hidden">
+        <div className="w-[100px] h-[inherit] mx-2 flex items-center justify-center relative max-md:hidden px-4">
           <div className="floating-item-animation">
             <Image
               src="/id-card-line.png"
